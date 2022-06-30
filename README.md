@@ -34,7 +34,7 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 </div>
 
 <div align ="center">
- <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/conversorMoeda1.png" /> <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/sair.png" />
+ <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/conversor.png" /> <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/sair.png" />
 </div>
 
 
@@ -54,6 +54,13 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 - Ter instalado em seu computador o java 8 ou superior.
 - Fazer download do arquivo executável Conversores.jar [aqui](https://github.com/Celsohsl/Challenge-Java-Conversor/releases/tag/v1.0.0) , na opção de releases deste repositório do github, depois de ter baixado o arquivo, dar duplo click que será aberto a aplicação. 
+
+#
+
+<div align="center">
+  <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/badge_java.png"/>
+  <h2 align="center">Badge conquistada com esse projeto.</h2>
+</div
 
 #
 
