@@ -25,7 +25,7 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
      - Converter de Libras Esterlinas a Reais
      - Converter de Peso argentino a  Reais
      - Converter de Peso Chileno a Reais
- Como desafio extra, foi proposto também a criação de um outro conversor, para ser adicionado ao desafio principal, neste caso foi criado um conversor de temperaturas junto ao conversor de moedas.
+ Como desafio extra, foi proposto também a criação de um outro conversor, para ser adicionado ao desafio principal, neste caso foi criado o conversor de temperaturas junto ao conversor de moedas.
  
 <h2 align ="center">Screenshots</h2>
 
@@ -46,14 +46,14 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 - Eclipse IDE.
 - Java.swing
-- Site de referência para uso dos valores das cotações: aqui.
+- Site de referência para uso dos valores das cotações: [Xe](https://www.xe.com/pt/currencyconverter/).
 - Os valores das cotações utilizadas são fixos, obtidos na data de 28/06/2022.
-- Para o conversor de temperatura, foi utilizado este site aqui como referência.
+- Para o conversor de temperatura, foi utilizado este site: [Mathsisfun](https://www.mathsisfun.com/temperature-conversion.html) como referência.
 
 <h2>Como Utilizar a Aplicação</h2>
 
 - Ter instalado em seu computador o java 8 ou superior.
-- Fazer download do arquivo executável aqui, ou na opção de releases deste repositório do github, depois de ter baixado o arquivo, dar duplo click que será aberto a aplicação. 
+- Fazer download do arquivo executável Conversores.jar [aqui](https://github.com/Celsohsl/Challenge-Java-Conversor/releases/tag/v1.0.0) , na opção de releases deste repositório do github, depois de ter baixado o arquivo, dar duplo click que será aberto a aplicação. 
 
 #
 
@@ -66,7 +66,7 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 <p align="left">
   🛠<strong> Ferramentas:</strong>
- <img align="center" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255">
+ <img align="center" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=blue">
  <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
  <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
  <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
