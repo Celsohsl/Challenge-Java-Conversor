@@ -37,6 +37,8 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
  <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/conversorMoeda1.png" /> <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/sair.png" />
 </div>
 
+![Abas Moeda](readme_image/conversorMoeda1.png), ![Abas Temperatura](readme_image/sair.png)
+
 <h2>Linguagem Utilizada</h2>
 
 - Java
@@ -52,4 +54,4 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 <h2>Como Utilizar a Aplicação</h2>
 
 - Ter instalado em seu computador o java 8 ou superior.
-- Fazer download do arquivo executável aqui, ou na opção de releases do github, depois de ter baixado o arquivo dar duplo click que será aberto a aplicação. 
+- Fazer download do arquivo executável aqui, ou na opção de releases deste repositório do github, depois de ter baixado o arquivo, dar duplo click que será aberto a aplicação. 
