@@ -37,7 +37,6 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
  <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/conversorMoeda1.png" /> <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/sair.png" />
 </div>
 
-![Abas Moeda](readme_image/conversorMoeda1.png), ![Abas Temperatura](readme_image/sair.png)
 
 <h2>Linguagem Utilizada</h2>
 
@@ -55,3 +54,26 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 - Ter instalado em seu computador o java 8 ou superior.
 - Fazer download do arquivo executável aqui, ou na opção de releases deste repositório do github, depois de ter baixado o arquivo, dar duplo click que será aberto a aplicação. 
+
+#
+
+<p align="left">
+  💻<strong> Skills:</strong>  
+ <img align="center" alt="Celso-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+</p>
+
+#
+
+<p align="left">
+  🛠<strong> Ferramentas:</strong>
+ <img align="center" src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255">
+ <img align="center" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+ <img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+#
+<p align="left">
+  <a href="https://www.linkedin.com/in/celso-henrique-da-silva-lacerda-front-end/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</p>
+
