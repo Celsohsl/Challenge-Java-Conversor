@@ -30,7 +30,7 @@ Neste challenge foi proposto a criação de um conversor de moeda, utilizando a 
  
  ---
  
-<h2 align ="center"> 📷 Screenshots</h2>
+<h2 align ="center"> 📷 Screenshots ✨</h2>
 
 <div align ="center">
  <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/conversorMoeda.png" /> <img src="https://github.com/Celsohsl/Challenge-Java-Conversor/blob/main/readme_image/conversorTemperatura.png" />
